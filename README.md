@@ -12,7 +12,7 @@ This repository contains clean datasets from the [African Next Voices](https://h
 | Maasai   | `corpus_mas.csv` |
 | Somali   | `corpus_som.csv` |
 
-The repository has also been updated to include datasets from the Google WaxalNLP corpus used to demonstrate experimental generalisability:
+The repository has also been updated to include datasets from the [Google WaxalNLP](https://huggingface.co/datasets/google/WaxalNLP) corpus used to demonstrate experimental generalisability:
 
 | Corpus   | Filename         |
 | -------- | ---------------- |
